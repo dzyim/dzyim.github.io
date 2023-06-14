@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
 
-Maybe say a some things about yourself.
+## 阅读计划
 
-Or maybe what you plan to blog about.
+- 《专制与民主的社会起源：现代世界形成过程中的地主和农民》，巴林顿·摩尔
+
